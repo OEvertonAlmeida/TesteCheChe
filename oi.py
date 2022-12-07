@@ -19,4 +19,4 @@ elif pergunta_matematica == "subtrair":
     resultado = prim_num2 - seg_num2
     print(f"o resultado da subtração é {resultado}")
 else:
-    print(f"{nome} estude mais!")
+    print(f"{nome} estude mais!")  
